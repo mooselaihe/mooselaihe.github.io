@@ -53,7 +53,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-05-18</lastmod>
+    <lastmod>2021-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,14 +61,14 @@
   
   <url>
     <loc>http://example.com/tags/java/</loc>
-    <lastmod>2021-05-18</lastmod>
+    <lastmod>2021-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/mysql/</loc>
-    <lastmod>2021-05-18</lastmod>
+    <lastmod>2021-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
